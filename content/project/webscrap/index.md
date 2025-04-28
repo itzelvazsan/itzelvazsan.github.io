@@ -1,7 +1,7 @@
 ---
 title: Web Scraping
 date: 2024-11-01
-external_link: hhttps://github.com/itzelvazsan/web-scraping-challenge
+external_link: https://github.com/itzelvazsan/web-scraping-challenge
 tags:
   - HTML
   - Pandas
