@@ -1,13 +1,13 @@
 ---
 title: Pandas
 date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+external_link: https://github.com/itzelvazsan/pandas-challenge
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Python
+  - Pandas
+  - Data Manipulation & Analysis
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+The goal was to create and manipulate Pandas DataFrames to analyze school and standardized tests data.
 
 <!--more-->

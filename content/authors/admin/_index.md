@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Itzel Vazquez S.
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Itzel
+last_name: Vazquez S.
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🍊
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,92 +20,92 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Applied Research & Data Consultant
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: SESNA
+    url: https://www.sesna.gob.mx/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'itzelvazquezsanchezl@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+#  - icon: brands/x
+#    url: https://twitter.com/
+#  - icon: brands/instagram
+#    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/itzelvazsan
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/itzel-vazquez/
+#  - icon: academicons/google-scholar
+#    url: https://scholar.google.com/
+#  - icon: academicons/orcid
+#    url: https://orcid.org/
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Evidence-based Public Policy
+  - Open Data
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+#  - area: PhD Artificial Intelligence
+#    institution: Stanford University
+#    date_start: 2016-01-01
+#    date_end: 2020-12-31
+#    summary: |
+#      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+#    button:
+#      text: 'Read Thesis'
+#      url: 'https://example.com'
+  - area: Master's Degree in Demography
+    institution: El Colegio de México A.C.
+    date_start: 2020-08-01
+    date_end: 2022-08-03
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      GPA: 9.8/10
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Statistical Modeling
+      - Research Methodologies
+      - Quantitative & Qualitative Analysis
+  - area: Bachelor's Degree in International Relations
+    institution: National Autonomous University of Mexico
+    date_start: 2013-08-01
+    date_end: 2016-12-31
     summary: |
-      GPA: 3.4/4.0
+      GPA: 9.15/10
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - International Economics
+      - Sustainable Development
+      - Applied Mathematics for Social Sciences
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Deputy Director for Risk Mitigation
+    company_name: SESNA
+    company_url: https://www.sesna.gob.mx/
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2025-02-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      - Lead the development of monthly reports on best practices and metrics, enhancing personnel knowledge on corruption risk detection.
+      - Constructed key performance metrics and organized the development of an ML-powered dashboard to assess procurement risks.
+      - Developed the specialized study on risk indicators in public procurement process with a focus on suppliers, emphasizing the role of Machine Learning techniques.
+  - position: Head of the Information Department
+    company_name: SESNA
+    company_url: https://www.sesna.gob.mx/
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-02-01
+    date_end: 2025-01-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Operated a four-person team to execute six projects on corruption prevention, increasing public sector awareness.
+      - Authored and presented a report on corruption metrics to international stakeholders, achieving high satisfaction and securing a donation of four technology tools.
+      - Defined a methodology to identify root causes of corruption and detect and prevent risks in government departments.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -114,29 +114,29 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        # percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: JavaScript
         description: ''
-        percent: 100
+        # percent: 100
         icon: chart-bar
       - name: SQL
         description: ''
-        percent: 40
+        # percent: 40
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Reading
         description: ''
-        percent: 60
+        # percent: 60
         icon: person-simple-walk
       - name: Cats
         description: ''
-        percent: 100
+        # percent: 100
         icon: cat
-      - name: Photography
+      - name: Travel
         description: ''
         percent: 80
         icon: camera
@@ -144,43 +144,28 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
+  - name: Spanish
+    percent: 100
   - name: Portuguese
-    percent: 25
+    percent: 100
+  - name: French
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
+  - title: Honorable Mention for Bachelor's Thesis
+    url: https://t.ly/S6e4
     date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+    awarder: UNAM
+    icon: ''
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Awarded by supporting the thesis entitled "Influencia en el régimen ambiental mexicano del Mecanismo de Petición Ciudadana del Acuerdo para la Cooperación Ambiental de América del Norte 1994 a 2015".
+
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Itzel Vázquez S. is an applied research and data consultant who currently works as a Deputy Director for Risk Mitigation in the Executive Secretary of the National Anticorruption System (SESNA). Her main goal is bridging social impact and technology. She is always looking for answers and solving puzzles, and now she wants to share the results with people.
