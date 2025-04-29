@@ -41,8 +41,8 @@ featured: false
 #   url: "https://repositorio.colmex.mx/concern/theses/gf06g4569"
 
 # URLs (optional, commented if unused)
-# url_pdf: "http://arxiv.org/pdf/1512.04133v1"
-url_code: "https://github.com/HugoBlox/hugo-blox-builder"
+ url_pdf: "https://repositorio.colmex.mx/concern/theses/gf06g4569"
+# url_code: "https://github.com/HugoBlox/hugo-blox-builder"
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
