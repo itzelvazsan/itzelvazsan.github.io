@@ -11,7 +11,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 date: '2017-09-14T00:00:00Z'
-doi: ''
+doi: ""
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-09-14T00:00:00Z'
 # Publication type.
