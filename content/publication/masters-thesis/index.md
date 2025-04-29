@@ -20,7 +20,8 @@ publication: In *COLMEX*
 publication_short: In *COLMEX*
 
 # Abstract
-abstract: This thesis addresses the question: What are the direct and indirect associations of socioeconomic, behavioral, psychosocial, and health-related factors with the multimorbidity-depression relationship among the Mexican population aged 60 and over in 2018? Using data from the 2018 Mexican Health and Aging Study (ENASEM), two cross-sectional structural equation models were applied. The findings show that the indirect effects of multimorbidity, through health and psychosocial variables (mediators in the multimorbidity-depression relationship), are statistically significant. The research revealed that the association between multimorbidity and depression is stronger when the indirect effects of multimorbidity on depressive symptoms are considered—an aspect not always highlighted in previous studies on this topic.
+abstract:  |
+  What are the direct and indirect associations of socioeconomic, behavioral, psychosocial, and health-related factors with the multimorbidity-depression relationship among the Mexican population aged 60 and over in 2018? Using data from the 2018 Mexican Health and Aging Study, two cross-sectional structural equation models were applied. The findings show that the indirect effects of multimorbidity, through health and psychosocial variables, are statistically significant. The research revealed that the association between multimorbidity and depression is stronger when the indirect effects of multimorbidity on depressive symptoms are considered—an aspect not always highlighted in previous studies on this topic.
 
 # Summary
 summary: Master's Thesis - Applied cross-sectional structural equation models to assess the mediating role of health and psychosocial factors in the multimorbidity-depression relationship among older adults in Mexico.

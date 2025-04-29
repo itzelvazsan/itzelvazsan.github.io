@@ -20,7 +20,8 @@ publication: In *UNAM*
 publication_short: In *UNAM*
 
 # Abstract
-abstract: I explored the connection between the Submission on Enforcement Matters Mechanism under the North American Agreement on Environmental Cooperation and the concept of environmental democracy, which encompasses public participation, access to information, and access to justice in environmental matters. Specifically, I analyzed its relationship with the role of factual records in Mexico. The study concluded that the Mechanism is ineffective in achieving its primary goal of identifying failures in the enforcement of national environmental legislation. Several solutions were proposed to improve its effectiveness.
+abstract:  |
+  I explored the connection between the Submission on Enforcement Matters Mechanism under the North American Agreement on Environmental Cooperation and the concept of environmental democracy, which encompasses public participation, access to information, and access to justice in environmental matters. Specifically, I analyzed its relationship with the role of factual records in Mexico. The study concluded that the Mechanism is ineffective in achieving its primary goal of identifying failures in the enforcement of national environmental legislation. Several solutions were proposed to improve its effectiveness.
 
 # Summary
 summary: Bachelor's Thesis - Analyzed the effectiveness of the Submission on Enforcement Matters Mechanism under the North American Agreement on Environmental Cooperation, concluding that it falls short in enforcing environmental legislation in Mexico.
