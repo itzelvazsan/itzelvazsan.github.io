@@ -36,7 +36,7 @@ tags:
 featured: false
 
 # Custom links
-# links:
+links:
 # - name: "COLMEX"
 #   url: "https://repositorio.colmex.mx/concern/theses/gf06g4569"
 
