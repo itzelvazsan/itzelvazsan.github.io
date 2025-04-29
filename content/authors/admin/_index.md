@@ -62,7 +62,7 @@ education:
       - Unsupervised & Supervised Learning
       - SQL
       - NoSQL
-      - Neural Networks and Deep Learning
+      - Neural Networks & Deep Learning
       - Python APIs
   - area: Master's Degree in Demography
     institution: El Colegio de México A.C.
