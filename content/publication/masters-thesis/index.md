@@ -41,7 +41,10 @@ links:
 #   url: "https://repositorio.colmex.mx/concern/theses/gf06g4569"
 
 # URLs (optional, commented if unused)
- url_pdf: "https://repositorio.colmex.mx/concern/theses/gf06g4569"
+- name:
+  url_pdf: "https://repositorio.colmex.mx/concern/theses/gf06g4569"
+  icon_pack: fab
+  icon: pdf
 # url_code: "https://github.com/HugoBlox/hugo-blox-builder"
 # url_dataset: ''
 # url_poster: ''
