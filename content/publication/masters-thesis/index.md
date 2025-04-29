@@ -41,7 +41,7 @@ links:
 #   url: "https://repositorio.colmex.mx/concern/theses/gf06g4569"
 
 # URLs (optional, commented if unused)
-- name:
+- name: "PDF"
   url_pdf: "https://repositorio.colmex.mx/concern/theses/gf06g4569"
   icon_pack: fab
   icon: pdf
