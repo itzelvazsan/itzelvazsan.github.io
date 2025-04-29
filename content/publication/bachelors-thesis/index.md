@@ -1,51 +1,39 @@
 ---
 title: 'Influencia en el régimen ambiental mexicano del mecanismo de petición ciudadana del ACAAN 1994 a 2015'
-
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
 #  - Robert Ford
-
 # Author notes (optional)
 #author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
-
 date: '2017-09-14T00:00:00Z'
 doi: ''
-
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-09-14T00:00:00Z'
-
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
 publication_types: ['thesis']
-
 # Publication name and optional abbreviated publication name.
 publication: In *UNAM*
 publication_short: In *UNAM*
-
 abstract: I explored the connection between the Submission on Enforcement Matters Mechanism under the North American Agreement on Environmental Cooperation and the concept of environmental democracy, which encompasses public participation, access to information, and access to justice in environmental matters. Specifically, I analyzed its relationship with the role of factual records in Mexico. The study concluded that the Mechanism is ineffective in achieving its primary goal of identifying failures in the enforcement of national environmental legislation. Several solutions were proposed to improve its effectiveness.
-
 # Summary. An optional shortened abstract.
 summary: Bachelor's Thesis - Analyzed the effectiveness of the Submission on Enforcement Matters Mechanism under the North American Agreement on Environmental Cooperation, concluding that it falls short in enforcing environmental legislation in Mexico.
-
 tags:
   - International Relations
   - Sustainable Development
   - Environmental Democracy
-
 # Display this page in the Featured widget?
 featured: true
-
 # Custom links (uncomment lines below)
 # links:
 # - name: Link
 #   url: https://t.ly/S6e4
-
 url_pdf: ''
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
