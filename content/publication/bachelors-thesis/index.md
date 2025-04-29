@@ -43,8 +43,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 # links:
- - name: Link
-   url: https://t.ly/S6e4
+# - name: Link
+#   url: https://t.ly/S6e4
 
 url_pdf: ''
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
