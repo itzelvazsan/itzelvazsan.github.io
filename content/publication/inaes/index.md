@@ -1,29 +1,32 @@
 ---
-title: "An example preprint / working paper"
+title: "Diagnóstico de Productos Financieros Sostenibles y Solidarios e Sociedades Cooperativas de Ahorro y Préstamo. Prueba Piloto"
 authors:
-- admin
-date: "2019-04-07T00:00:00Z"
+#- admin
+- INAES
+date: "2024-04-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-04-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["report"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This is the result of a project where I proposed and prepared an Excel-based data collection tool to assess sustainable and gender-focused financial products within Mexican cooperative societies. I also coordinated the initial data collection test with 9 cooperatives and a pilot phase with 33 cooperatives. Finally, I analyzed the data and presented key findings that shaped and strengthened the national financial strategy, significantly improving data-driven decision-making.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This is the result of a project where I proposed and prepared an Excel-based data collection tool to assess sustainable and gender-focused financial products within Mexican cooperative societies.
 
 tags:
-- Large Language Models
+- Information Gathering
+- Excel
+- Report
 
 featured: true
 
@@ -51,8 +54,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- internal-project
+projects: 
+- socaps
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
