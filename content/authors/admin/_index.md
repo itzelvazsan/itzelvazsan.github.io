@@ -52,15 +52,18 @@ interests:
   - Open Data
 
 education:
-#  - area: PhD Artificial Intelligence
-#    institution: Stanford University
-#    date_start: 2016-01-01
-#    date_end: 2020-12-31
-#    summary: |
-#      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-#    button:
-#      text: 'Read Thesis'
-#      url: 'https://example.com'
+  - area: Data Analytics and Visualization Bootcamp
+    institution: Tecnológico de Monterrey
+    date_start: 2024-09-01
+    date_end: 2025-04-08
+    summary: |
+      Courses included:
+
+      - Unsupervised & Supervised Learning
+      - SQL
+      - NoSQL
+      - Neural Networks and Deep Learning
+      - Python APIs
   - area: Master's Degree in Demography
     institution: El Colegio de México A.C.
     date_start: 2020-08-01
@@ -72,6 +75,9 @@ education:
       - Statistical Modeling
       - Research Methodologies
       - Quantitative & Qualitative Analysis
+    button:
+      text: 'Read Thesis'
+      url: 'https://repositorio.colmex.mx/concern/theses/gf06g4569'
   - area: Bachelor's Degree in International Relations
     institution: National Autonomous University of Mexico
     date_start: 2013-08-01
