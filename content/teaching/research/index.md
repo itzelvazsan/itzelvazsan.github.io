@@ -1,8 +1,8 @@
 ---
-title: Learn Research Methodology. the easy way
+title: Learn Research Methodology: The Easy Way
 summary: Easily learn how to create a question and answer it!
 date: 2025-05-01
-type: docs
+type: teaching
 math: false
 tags:
   - Applied Research
@@ -10,7 +10,7 @@ image:
   caption: 'Learn Easily Research Methodology. Source: ChatGPT.'
 ---
 
-I will be cretaing a course based on what I teach to Bachelor's students in actuarial science. Generally, I share my passion through different topics such as sports, fashion, teathre, among others. I love helping students creating research project questions to solve using quantitative methods. Wait for the newest news!
+I will be creating a course based on what I teach to Bachelor's students in actuarial science. Generally, I share my passion through different topics such as sports, fashion, theatre, among others. I love helping students create research project questions to solve using quantitative methods. Wait for the newest news!
 
 **How to create research questions**
 
