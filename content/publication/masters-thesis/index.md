@@ -33,8 +33,8 @@ tags:
 featured: false
 
 # links:
- - name: "COLMEX"
-   url: "https://repositorio.colmex.mx/concern/theses/gf06g4569"
+# - name: "COLMEX"
+#   url: "https://repositorio.colmex.mx/concern/theses/gf06g4569"
 #url_pdf: http://arxiv.org/pdf/1512.04133v1
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: ''
