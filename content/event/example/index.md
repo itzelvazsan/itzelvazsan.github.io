@@ -72,7 +72,7 @@ Some authors who contributed to the development of the conceptual framework pres
 
 Here are the presentation slides from that class:
 
-<iframe src="https://www.canva.com/design/DAGmJxv1PVo/VctgBC7USc1cLeOhUzKVtg/view?embed" width="800" height="600" allowfullscreen></iframe>
+<iframe src="https://www.canva.com/design/DAGmJxv1PVo/55IQAFufh8T8Aqd-SHCnog/view" width="800" height="600" allowfullscreen></iframe>
 
 
 
