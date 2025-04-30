@@ -2,7 +2,7 @@
 title: Learn Research Methodology: The Easy Way
 summary: Easily learn how to create a question and answer it!
 date: 2025-05-01
-type: teaching
+type: docs
 math: false
 tags:
   - Applied Research
