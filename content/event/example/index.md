@@ -72,7 +72,8 @@ Some authors who contributed to the development of the conceptual framework pres
 
 Here are the presentation slides from that class:
 
-<iframe src="https://www.canva.com/design/XXX/view?embed" width="800" height="600" allowfullscreen="allowfullscreen" allow="fullscreen"></iframe>
+<iframe src="https://www.canva.com/design/DAGmJxv1PVo/VctgBC7USc1cLeOhUzKVtg/view?embed" width="800" height="600" allowfullscreen></iframe>
+
 
 
 Stay tuned for my upcoming events and don't miss out:sun_with_face:!
