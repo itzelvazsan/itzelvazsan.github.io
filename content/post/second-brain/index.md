@@ -1,138 +1,43 @@
 ---
-title: 🧠 Sharpen your thinking with a second brain
-summary: Create a personal knowledge base and share your knowledge with your peers.
-date: 2023-10-26
+title: Bootcamp Done ✔ Now It’s Time for Data in Action!
+summary: I’ve officially completed the Data Analytics and Visualization Bootcamp and I'm ready to the next steps.
+date: 2025-04-08
 authors:
   - admin
 tags:
-  - Second Brain
-  - Markdown
+  - Coding
+  - Bootcamp
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
-Create a personal knowledge base and share your knowledge with your peers.
+I’m thrilled to share that I’ve officially completed the **Data Analytics and Visualization Bootcamp** at Tecnológico de Monterrey!
 
-Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.
+This past week, I received my certificate of completion, marking the end of a truly transformative journey. Taking this first step toward transitioning into the tech world wasn’t easy — it was a path filled with learning, growth, and self-discovery. But today, I feel more ready than ever to explore new opportunities in the data and tech ecosystem.
 
-Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.
+## 🔍 What I Learned
 
-Use it as your second brain, either publicly sharing your knowledge with your peers via your website, or via a private GitHub repository and password-protected site just for yourself.
+During the bootcamp, I strengthened my skills in Python, SQL, Power BI, Tableau, APIs, and data visualization. I also applied them in real-world projects, which I’m proud to showcase on my [GitHub](https://github.com/itzelvazsan).
 
-## Mindmaps
+Topics I covered included:
 
-Hugo Blox supports a Markdown extension for mindmaps.
+- Unsupervised Learning  
+- Supervised Learning  
+- Neural Networks and Deep Learning  
+- Big Data  
+- Data Analysis with Python  
+- Python APIs  
+- NoSQL Databases  
+- ETL Processes  
+- JavaScript Visualizations  
 
-With this open format, can even edit your mindmaps in other popular tools such as Obsidian.
+## 🙌 Gratitude
 
-Simply insert a Markdown code block labelled as `markmap` and optionally set the height of the mindmap as shown in the example below.
+A special thanks to our amazing professor **John Ellis**, our dedicated TA **Kaylie Butler**, and my incredible classmates. Your support made this experience all the more meaningful.
 
-Mindmaps can be created by simply writing the items as a Markdown list within the `markmap` code block, indenting each item to create as many sub-levels as you need:
+---
 
-<div class="highlight">
-<pre class="chroma">
-<code>
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-</code>
-</pre>
-</div>
+Now I’m officially **open to new opportunities** and excited to collaborate on projects that bridge **data, impact, and innovation**.  
+If you know of any opportunities—or just want to chat about data—feel free to [reach out](mailto:itzelvazquezsanchez@gmail.com)!
 
-renders as
-
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-
-Anh here's a more advanced mindmap with formatting, code blocks, and math:
-
-<div class="highlight">
-<pre class="chroma">
-<code>
-```markmap
-- Mindmaps
-  - Links
-    - [Hugo Blox Docs](https://docs.hugoblox.com/)
-    - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
-  - Features
-    - Markdown formatting
-    - **inline** ~~text~~ *styles*
-    - multiline
-      text
-    - `inline code`
-    -
-      ```js
-      console.log('hello');
-      console.log('code block');
-      ```
-    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-```
-</code>
-</pre>
-</div>
-
-renders as
-
-```markmap
-- Mindmaps
-  - Links
-    - [Hugo Blox Docs](https://docs.hugoblox.com/)
-    - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
-  - Features
-    - Markdown formatting
-    - **inline** ~~text~~ *styles*
-    - multiline
-      text
-    - `inline code`
-    -
-      ```js
-      console.log('hello');
-      console.log('code block');
-      ```
-    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-```
-
-## Highlighting
-
-<mark>Highlight</mark> important text with `mark`:
-
-```html
-<mark>Highlighted text</mark>
-```
-
-## Callouts
-
-Use [callouts](https://docs.hugoblox.com/reference/markdown/#callouts) (aka _asides_, _hints_, or _alerts_) to draw attention to notes, tips, and warnings.
-
-By wrapping a paragraph in `{{%/* callout note */%}} ... {{%/* /callout */%}}`, it will render as an aside.
-
-```markdown
-{{%/* callout note */%}}
-A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{%/* /callout */%}}
-```
-
-renders as
-
-{{% callout note %}}
-A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{% /callout %}}
-
-Or use the `warning` callout type so your readers don't miss critical details:
-
-{{% callout warning %}}
-A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{% /callout %}}
-
-## Did you find this page helpful? Consider sharing it 🙌
+## 🤝 Let’s connect and collaborate!
