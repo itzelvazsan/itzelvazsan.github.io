@@ -33,7 +33,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ''
   focal_point: Right
 
 #links:
@@ -42,8 +42,8 @@ image:
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 #url_code: 'https://github.com'
-#url_pdf: ''
-url_slides: 'https://docs.google.com/presentation/d/1whx6QaALWxwJ4izBDEgMaePrYPNilbn7/edit?usp=sharing&ouid=106349031743225713978&rtpof=true&sd=true'
+url_pdf: 'https://drive.google.com/file/d/1yEN7kLRpcD9rLlzJZgg-Tv-1peVfjZl1/view?usp=sharing'
+#url_slides: 'https://docs.google.com/presentation/d/1whx6QaALWxwJ4izBDEgMaePrYPNilbn7/edit?usp=sharing&ouid=106349031743225713978&rtpof=true&sd=true'
 #url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
@@ -69,11 +69,6 @@ Some authors who contributed to the development of the conceptual framework pres
 - Fazekas, Skuhrovec y Wachs. 2017. [“Corruption, government turnover, and public contracting market structure Insights using network analysis and objective corruption proxies”](https://doi.org/10.2139/ssrn.3103402)
 - Fazekas, M., Toth, I., y King, P., 2013. [Corruption manual for beginners. “Corruption techniques” in public procurement with examples from Hungary](https://www.researchgate.net/publication/272304515_Corruption_Manual_for_Beginners_'Corruption_Techniques'_in_Public_Procurement_with_Examples_from_Hungary)
 - Tóth, Fazekas, Czibik, János Tóth. 2013. [“Toolkit for detecting collusive bidding in public procurement”](https://www.govtransparency.eu/wp-content/uploads/2015/11/GTI_WP2014_2_Toth_et_al_150413.pdf)
-
-Here are the presentation slides from that class:
-
-<iframe src="https://www.canva.com/design/DAGmJxv1PVo/55IQAFufh8T8Aqd-SHCnog/view?embed" width="800" height="600" allowfullscreen></iframe>
-
 
 
 Stay tuned for my upcoming events and don't miss out:sun_with_face:!
