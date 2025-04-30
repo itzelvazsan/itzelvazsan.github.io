@@ -1,7 +1,7 @@
 ---
 title: Learn Research Methodology
 summary: Easily learn how to create a question and answer it!
-date: 2025-05-01
+date: 2025-04-29
 type: docs
 math: false
 tags:
