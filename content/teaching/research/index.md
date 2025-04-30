@@ -1,5 +1,5 @@
 ---
-title: Learn Research Methodology: The Easy Way
+title: Learn Research Methodology
 summary: Easily learn how to create a question and answer it!
 date: 2025-05-01
 type: docs
