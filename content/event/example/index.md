@@ -74,4 +74,4 @@ Here are the presentation slides from that class:
 
 {{< gdocs src="https://docs.google.com/presentation/d/1whx6QaALWxwJ4izBDEgMaePrYPNilbn7/edit?usp=sharing&ouid=106349031743225713978&rtpof=true&sd=true" >}}
 
-Stay tuned for my upcoming events and don't miss out :sun_with_face:!
+Stay tuned for my upcoming events and don't miss out:sun_with_face:!
