@@ -8,7 +8,7 @@ tags:
   - Coding
   - Bootcamp
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: 'Image credit: **Bootcamp**'
 ---
 
 I’m thrilled to share that I’ve officially completed the **Data Analytics and Visualization Bootcamp** at Tecnológico de Monterrey!
