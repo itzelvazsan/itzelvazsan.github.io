@@ -1,4 +1,4 @@
-# Personal Page using [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
+# Personal Page using [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)  
 
 [![image](https://github.com/user-attachments/assets/158ba129-7a39-4c1c-ae2b-b07bc1e5bbbb)](https://itzelvazsan.github.io/)
 
