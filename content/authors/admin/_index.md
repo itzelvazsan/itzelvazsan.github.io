@@ -24,8 +24,8 @@ role: Applied Research & Data Consultant
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: SESNA
-    url: https://www.sesna.gob.mx/
+  - name: Seguros Azteca, Grupo Salinas
+    url: https://www.gruposalinas.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -174,4 +174,4 @@ awards:
 
 ## About Me
 
-Itzel Vázquez S. is an applied research and data consultant who currently works as a Deputy Director for Risk Mitigation in the Executive Secretary of the National Anticorruption System (SESNA). Her main goal is bridging social impact and technology. She is always looking for answers and solving puzzles, and now she wants to share the results with people.
+Itzel Vázquez S. is an applied research and data consultant who currently works as a Business Intelligence and Data Consultant in Grupo Salinas. Her main goal is bridging social impact and technology. She is always looking for answers and solving puzzles, and now she wants to share the results with people.
