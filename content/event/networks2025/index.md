@@ -13,7 +13,7 @@ location: Online
 #  country: United States
 
 summary: Served as a Guest Lecturer in the Diploma Program on Anti-Corruption, Integrity and Accountability at the National Institute of Public Administration (INAP).
-abstract: 'I taught Session 3 of Module 1, titled “Public Administration, Democracy, and Corruption, Theoretical Approaches,” where I presented the topic of corruption as organizational networks and the capture of the public sphere.'
+abstract: 'I taught Session 3 of Module 1, titled Public Administration, Democracy, and Corruption, Theoretical Approaches, where I presented the topic of corruption as organizational networks and the capture of the public sphere.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
