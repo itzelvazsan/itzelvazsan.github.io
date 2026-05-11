@@ -1,7 +1,7 @@
 ---
 title: Social Network Theory & Public Procurement
 
-event: Public Administration, Democracy, and Corruption: Theoretical Approaches
+event: Public Administration, Democracy, and Corruption
 event_url: Online
 
 location: Online
