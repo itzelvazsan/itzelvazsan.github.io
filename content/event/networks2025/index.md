@@ -1,7 +1,7 @@
 ---
 title: Social Network Theory & Public Procurement
 
-event: Democracy and Corruption
+event: Anticorruption Policies Class
 event_url: Online
 
 location: Online
@@ -12,8 +12,8 @@ location: Online
 #  postcode: '94305'
 #  country: United States
 
-summary: Served as a Guest Lecturer in the Diploma Program on Anticorruption, Integrity and Accountability at INAP.
-abstract: 'I taught Session 3 of Module 1, titled Public Administration, Democracy, and Corruption, Theoretical Approaches, where I presented the topic of corruption as organizational networks and the capture of the public sphere.'
+summary: Served as a Guest Lecturer in the Diploma Program on Anticorruption, Integrity and Accountability.
+abstract: 'I taught Session 3 of Module 1 about corruption as organizational networks and the capture of the public sphere.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -22,7 +22,7 @@ date_end: '2025-09-15T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2026-05-10T00:00:00Z'
+publishDate: '2025-04-30T00:00:00Z'
 
 authors:
   - admin
@@ -72,3 +72,4 @@ Some anticorruption platforms presented were:
 
 
 This is the second time I have taught this content :sun_with_face:!
+
