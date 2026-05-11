@@ -10,18 +10,6 @@ I followed the original instructions on of the template and used the documentati
 
 I edit my site in the CMS, generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub. 
 
-## From Hugo Academic CV Theme: We ask you, humbly, to support this open source movement
-
-Today we ask you to defend the open source independence of the Hugo Blox Builder and themes 🐧
-
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
-
-### [❤️ Click here to become a Sponsor, unlocking awesome perks such as _exclusive academic templates and blocks_](https://hugoblox.com/sponsor/)
-
-<!--
-<p align="center"><a href="https://hugoblox.com/templates/" target="_blank" rel="noopener"><img src="https://hugoblox.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Theme for Hugo Blox Builder"></a></p>
--->
-
 ## Credits
 
 - [Unsplash](https://unsplash.com)
