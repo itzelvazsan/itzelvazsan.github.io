@@ -37,7 +37,7 @@ sections:
       text: |-
         I love using data to explore and solve meaningful questions. My approach is strongly oriented toward applying research methodologies in an academic and structured way. In my free time, I enjoy analyzing a wide range of topics, from fashion trends to issues affecting vulnerable populations.
 
-        I am passionate about building research methodologies and working with both qualitative and quantitative methods. Whenever I have the opportunity to make a positive impact on society through my knowledge, I embrace it without hesitation. I truly believe that technology and data are powerful tools to address and solve social challenges..
+        I am passionate about building research methodologies and working with both qualitative and quantitative methods. Whenever I have the opportunity to make a positive impact on society through my knowledge, I embrace it without hesitation. I truly believe that technology and data are powerful tools to address and solve social challenges.
         
         Please reach out to collaborate 😃
     design:

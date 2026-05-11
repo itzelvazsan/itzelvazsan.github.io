@@ -20,19 +20,19 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Applied Research & Data Consultant
+role: Deputy Director of Development and Improvement
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Seguros Azteca, Grupo Salinas
-    url: https://www.gruposalinas.com/
+  - name: Secretaría Ejecutiva del Sistema Nacional Anticorrupción (SESNA)
+    url: https://www.sesna.gob.mx/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'itzelvazquezsanchezl@gmail.com'
-    label: E-mail Me
+#  - icon: at-symbol
+#    url: 'itzelvazquezsanchez@gmail.com'
+#    label: E-mail Me
 #  - icon: brands/x
 #    url: https://twitter.com/
 #  - icon: brands/instagram
@@ -49,7 +49,7 @@ profiles:
 interests:
   - Artificial Intelligence
   - Evidence-based Public Policy
-  - Open Data
+  - Gov Tech
 
 education:
   - area: Data Analytics and Visualization Bootcamp
@@ -90,17 +90,42 @@ education:
       - Sustainable Development
       - Applied Mathematics for Social Sciences
 work:
+  - position: Deputy Director of Development and Improvement 
+    company_name: SESNA
+    company_url: https://www.sesna.gob.mx/
+    company_logo: ''
+    date_start: 2026-02-16
+    date_end: ''
+    summary: |2-
+      Responsibilities include:
+      - Collaborated in the preparation of the 2025 National Anti-Corruption Policy Implementation Program report.
+      - Led the proposal for the Targeted Policy on the standardization of asset disclosure verification systems.
+      - Prepared the 2026 Cross-Cutting Anti-Corruption Budget Allocation Report.
+
+  - position: Senior Business Intelligence and Data Consultant
+    company_name: Seguros Azteca, Grupo Salinas
+    company_url: https://www.segurosazteca.mx/
+    company_logo: ''
+    date_start: 2025-07-01
+    date_end: 2026-02-15
+    summary: |2-
+      Responsibilities include:
+      - Designed and implemented dashboards using Python Shiny to automate the calculation of key performance indicators for two main products.
+      - Conducted analysis of corporate accounts, identifying inefficiencies in executive productivity.
+      - Analyzed internal customer data as well as market data to identify trends, improving the impact of certain products.
+
   - position: Deputy Director for Risk Mitigation
     company_name: SESNA
     company_url: https://www.sesna.gob.mx/
     company_logo: ''
     date_start: 2025-02-01
-    date_end: ''
+    date_end: 2025-05-30
     summary: |2-
       Responsibilities include:
       - Lead the development of monthly reports on best practices and metrics, enhancing personnel knowledge on corruption risk detection.
       - Constructed key performance metrics and organized the development of an ML-powered dashboard to assess procurement risks.
       - Developed the specialized study on risk indicators in public procurement process with a focus on suppliers, emphasizing the role of Machine Learning techniques.
+
   - position: Head of the Information Department
     company_name: SESNA
     company_url: https://www.sesna.gob.mx/
@@ -174,4 +199,4 @@ awards:
 
 ## About Me
 
-Itzel Vázquez S. is an applied research and data consultant who currently works as a Business Intelligence and Data Consultant in Grupo Salinas. Her main goal is bridging social impact and technology. She is always looking for answers and solving puzzles, and now she wants to share the results with people.
+Itzel Vázquez S. is an applied research and data consultant who currently works as a Deputy Director of Development and Improvement in SESNA. Her main goal is bridging social impact and technology. She is always looking for answers and solving puzzles, and now she wants to share the results with people.
