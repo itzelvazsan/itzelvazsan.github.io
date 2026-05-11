@@ -6,7 +6,7 @@ type: docs
 math: false
 tags:
   - Applied Research
-image: featured.png
+image:
   caption: 'Learn Easily Research Methodology. Source: ChatGPT.'
 ---
 
