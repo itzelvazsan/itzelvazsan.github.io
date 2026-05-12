@@ -1,5 +1,5 @@
 ---
-title: Social Network Theory & Public Procurement
+title: Social Network Theory & Public Procurement 2025
 
 event: Anticorruption Policies Class
 event_url: Online
